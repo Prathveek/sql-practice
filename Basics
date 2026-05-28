@@ -1,0 +1,9 @@
+Create a table in SQL
+CREATE TABLE Employees
+(
+    id INT,
+    Name VARCHAR(20),
+    Salary INT,
+    Dept VARCHAR(10),
+    City VARCHAR(10)
+);

@@ -1,1 +1,21 @@
 
+# Q1 - ICC World Cup team statistics
+## problem statement
+calculate team-wise cricket statistics.
+Required columns:
+1.Team name
+2.Matches Played
+3.Matches Won
+4. Win percentage
+## Source Table
+icc_world_cup
+
+-Team_1
+-Team_2
+-Winner
+## SQl Approaches
+1. UNION ALL + GROUP BY |
+2. CTE + UNION ALL
+3. CTE + JOIN
+4. Subqueries
+5. Windows Functions

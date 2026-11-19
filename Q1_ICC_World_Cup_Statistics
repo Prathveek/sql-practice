@@ -17,5 +17,5 @@ icc_world_cup
 1. UNION ALL + GROUP BY |
 2. CTE + UNION ALL
 3. CTE + JOIN
-4. Subqueries
+4. Subquery + UNION ALL + GROUP BY
 5. Windows Functions

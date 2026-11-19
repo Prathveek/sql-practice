@@ -1,0 +1,13 @@
+create table icc_world_cup
+(
+Team_1 varchar(20),
+Team_2 varchar(20),
+Winner varchar(20)
+);
+Insert into icc_world_cup (Team_1, Team_2,Winner)
+Values ('India','SL','India'),
+       ('SL','Aus','Aus'),
+      ('SA','Eng','Eng'),
+      ('Eng','NZ','NZ'),
+      ('Aus','India','India');
+
